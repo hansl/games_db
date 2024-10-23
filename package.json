@@ -1,0 +1,21 @@
+{
+  "name": "games_db",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "minify": "ts-node src/minify.ts"
+  },
+  "keywords": [],
+  "author": "1FPGA",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/command-line-args": "^5.2.3",
+    "@types/node": "^22.7.9",
+    "command-line-args": "^6.0.0",
+    "json5": "^2.2.3",
+    "ts-node": "^10.9.2",
+    "tslib": "^2.8.0",
+    "typescript": "^5.6.3"
+  }
+}
